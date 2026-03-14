@@ -1,9 +1,0 @@
-# Compiled
-*.o
-*.exe
-exam_scheduler
-.idea/*
-
-# OS
-.DS_Store
-Thumbs.db
